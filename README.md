@@ -103,8 +103,6 @@ http://localhost:8080
 
 ## 📸 Screenshots
 
-Add project screenshots here later.
-
 Example:
 
 - Home Page
